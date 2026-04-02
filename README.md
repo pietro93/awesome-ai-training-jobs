@@ -43,17 +43,17 @@ The main platforms hiring AI trainers. Each entry links to an in-depth review wi
 
 | Platform | Focus | Pay Range | Review |
 |----------|-------|-----------|--------|
-| [Mercor](https://aitrainer.work/jobs/mercor) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
-| [Micro1](https://aitrainer.work/jobs/micro1) | Widest domain coverage | $15–$300/hr | [Review](https://aitrainer.work/platforms/micro1) |
-| [Turing](https://aitrainer.work/jobs/turing) | Coding, STEM, languages | $20–$120/hr | [Review](https://aitrainer.work/guides/turing-ai-training-review) |
-| [SME Careers](https://aitrainer.work/jobs/sme-careers) | Languages, STEM, design | $15–$80/hr | [Review](https://aitrainer.work/guides/sme-careers-review) |
-| [Alignerr](https://aitrainer.work/jobs/alignerr) | Expert RLHF roles | $20–$200/hr | [Review](https://aitrainer.work/guides/alignerr-review) |
-| [Outlier](https://aitrainer.work/jobs/outlier) | General, writing, coding | $15–$60/hr | — |
-| [Rex](https://aitrainer.work/jobs/rex) | Coding, design, finance | $30–$120/hr | — |
-| [Vetto](https://aitrainer.work/jobs/vetto) | Law, healthcare, finance | $20–$100/hr | — |
-| [Ethos](https://aitrainer.work/jobs/ethos) | Business expertise | $25–$80/hr | [Review](https://aitrainer.work/guides/ethos-expert-network-review) |
-| [Mindrift](https://aitrainer.work/jobs/mindrift) | Creative writing, NLP | $10–$40/hr | — |
-| [DataAnnotation](https://aitrainer.work/jobs/dataannotation) | General annotation | $10–$30/hr | — |
+| <img src="https://aitrainer.work/img/platforms/mercor.webp" width="16" height="16"> [Mercor](https://aitrainer.work/jobs/mercor) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
+| <img src="https://aitrainer.work/img/platforms/micro1.webp" width="16" height="16"> [Micro1](https://aitrainer.work/jobs/micro1) | Widest domain coverage | $15–$300/hr | [Review](https://aitrainer.work/platforms/micro1) |
+| <img src="https://aitrainer.work/img/platforms/turing.webp" width="16" height="16"> [Turing](https://aitrainer.work/jobs/turing) | Coding, STEM, languages | $20–$120/hr | [Review](https://aitrainer.work/guides/turing-ai-training-review) |
+| <img src="https://aitrainer.work/img/platforms/sme-careers.webp" width="16" height="16"> [SME Careers](https://aitrainer.work/jobs/sme-careers) | Languages, STEM, design | $15–$80/hr | [Review](https://aitrainer.work/guides/sme-careers-review) |
+| <img src="https://aitrainer.work/img/platforms/alignerr.webp" width="16" height="16"> [Alignerr](https://aitrainer.work/jobs/alignerr) | Expert RLHF roles | $20–$200/hr | [Review](https://aitrainer.work/guides/alignerr-review) |
+| <img src="https://aitrainer.work/img/platforms/outlier.webp" width="16" height="16"> [Outlier](https://aitrainer.work/jobs/outlier) | General, writing, coding | $15–$60/hr | — |
+| <img src="https://aitrainer.work/img/platforms/rex.webp" width="16" height="16"> [Rex](https://aitrainer.work/jobs/rex) | Coding, design, finance | $30–$120/hr | — |
+| <img src="https://aitrainer.work/img/platforms/vetto.webp" width="16" height="16"> [Vetto](https://aitrainer.work/jobs/vetto) | Law, healthcare, finance | $20–$100/hr | — |
+| <img src="https://aitrainer.work/img/platforms/ethos.webp" width="16" height="16"> [Ethos](https://aitrainer.work/jobs/ethos) | Business expertise | $25–$80/hr | [Review](https://aitrainer.work/guides/ethos-expert-network-review) |
+| <img src="https://aitrainer.work/img/platforms/mindrift.webp" width="16" height="16"> [Mindrift](https://aitrainer.work/jobs/mindrift) | Creative writing, NLP | $10–$40/hr | — |
+| <img src="https://aitrainer.work/img/platforms/dataannotation.webp" width="16" height="16"> [DataAnnotation](https://aitrainer.work/jobs/dataannotation) | General annotation | $10–$30/hr | — |
 
 → [Compare all platforms side-by-side](https://aitrainer.work/platforms)
 
