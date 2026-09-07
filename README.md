@@ -1,10 +1,14 @@
 # Awesome AI Training Jobs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+  <a href="https://aitrainer.work">
+    <img src="https://aitrainer.work/img/logo.png" width="458" alt="aitrainer.work">
+  </a>
+</div>
+
 > A curated list of resources for finding and succeeding at AI training, RLHF, and data annotation jobs.
 
 AI training jobs (also called RLHF, data labeling, or AI feedback roles) are remote freelance positions where subject-matter experts get paid to improve AI systems. This list curates the best platforms, guides, tools, and communities.
-
-**Maintained by [aitrainer.work](https://aitrainer.work)** — the largest aggregator of AI training jobs.
 
 ---
 
@@ -43,17 +47,15 @@ The main platforms hiring AI trainers. Each entry links to an in-depth review wi
 
 | Platform | Focus | Pay Range | Review |
 |----------|-------|-----------|--------|
-| <img src="https://aitrainer.work/img/platforms/mercor.webp" width="16" height="16"> [Mercor](https://aitrainer.work/jobs/mercor) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
-| <img src="https://aitrainer.work/img/platforms/micro1.webp" width="16" height="16"> [Micro1](https://aitrainer.work/jobs/micro1) | Widest domain coverage | $15–$300/hr | [Review](https://aitrainer.work/platforms/micro1) |
-| <img src="https://aitrainer.work/img/platforms/turing.webp" width="16" height="16"> [Turing](https://aitrainer.work/jobs/turing) | Coding, STEM, languages | $20–$120/hr | [Review](https://aitrainer.work/guides/turing-ai-training-review) |
-| <img src="https://aitrainer.work/img/platforms/sme-careers.webp" width="16" height="16"> [SME Careers](https://aitrainer.work/jobs/sme-careers) | Languages, STEM, design | $15–$80/hr | [Review](https://aitrainer.work/guides/sme-careers-review) |
-| <img src="https://aitrainer.work/img/platforms/alignerr.webp" width="16" height="16"> [Alignerr](https://aitrainer.work/jobs/alignerr) | Expert RLHF roles | $20–$200/hr | [Review](https://aitrainer.work/guides/alignerr-review) |
-| <img src="https://aitrainer.work/img/platforms/outlier.webp" width="16" height="16"> [Outlier](https://aitrainer.work/jobs/outlier) | General, writing, coding | $15–$60/hr | — |
-| <img src="https://aitrainer.work/img/platforms/rex.webp" width="16" height="16"> [Rex](https://aitrainer.work/jobs/rex) | Coding, design, finance | $30–$120/hr | — |
-| <img src="https://aitrainer.work/img/platforms/vetto.webp" width="16" height="16"> [Vetto](https://aitrainer.work/jobs/vetto) | Law, healthcare, finance | $20–$100/hr | — |
-| <img src="https://aitrainer.work/img/platforms/ethos.webp" width="16" height="16"> [Ethos](https://aitrainer.work/jobs/ethos) | Business expertise | $25–$80/hr | [Review](https://aitrainer.work/guides/ethos-expert-network-review) |
-| <img src="https://aitrainer.work/img/platforms/mindrift.webp" width="16" height="16"> [Mindrift](https://aitrainer.work/jobs/mindrift) | Creative writing, NLP | $10–$40/hr | — |
-| <img src="https://aitrainer.work/img/platforms/dataannotation.webp" width="16" height="16"> [DataAnnotation](https://aitrainer.work/jobs/dataannotation) | General annotation | $10–$30/hr | — |
+| <img src="https://aitrainer.work/img/platforms/mercor.webp" width="16" height="16"> [Mercor](https://work.mercor.com?referralCode=f5d2f70e-eab7-4058-baac-5537b12cafd2) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
+| <img src="https://aitrainer.work/img/platforms/micro1.webp" width="16" height="16"> [Micro1](https://www.micro1.ai/jobs?referralCode=127739a8-8818-4bab-99c6-532bb6ec3311) | Widest domain coverage | $15–$300/hr | [Review](https://aitrainer.work/platforms/micro1) |
+| <img src="https://aitrainer.work/img/platforms/turing.webp" width="16" height="16"> [Turing](https://work.turing.com/r/uGg_Anel1u) | Coding, STEM, languages | $20–$120/hr | [Review](https://aitrainer.work/guides/turing-ai-training-review) |
+| <img src="https://aitrainer.work/img/platforms/sme-careers.webp" width="16" height="16"> [SME Careers](https://sme.careers/apply?referral=rp--125d85) | Languages, STEM, design | $15–$80/hr | [Review](https://aitrainer.work/guides/sme-careers-review) |
+| <img src="https://aitrainer.work/img/platforms/alignerr.webp" width="16" height="16"> [Alignerr](https://app.alignerr.com/signin?referral-code=0a69ca7a-14e5-4214-897c-928da4c6bc2f) | Expert RLHF roles | $20–$200/hr | [Review](https://aitrainer.work/guides/alignerr-review) |
+| <img src="https://aitrainer.work/img/platforms/rex.webp" width="16" height="16"> [Rex](https://www.rex.zone/open-opportunities/69796bdb1f39a567aaad07fa?inviteCode=NjljMGNmNmNiYmVkODEzOGE4MDY1MjU2) | Coding, design, finance | $30–$120/hr | — |
+| <img src="https://aitrainer.work/img/platforms/vetto.webp" width="16" height="16"> [Vetto](https://work.vetto.ai/opportunities/0e030c05-8c5f-459a-a217-a347c1a380fa?referral=JetA0GdS) | Law, healthcare, finance | $20–$100/hr | — |
+| <img src="https://aitrainer.work/img/platforms/ethos.webp" width="16" height="16"> [Ethos](https://agent.askethos.com/refer/i1dttm6uohw8) | Business expertise | $25–$80/hr | [Review](https://aitrainer.work/guides/ethos-expert-network-review) |
+| <img src="https://aitrainer.work/img/platforms/mindrift.webp" width="16" height="16"> [Mindrift](https://apply.workable.com/toloka-ai/j/29E03C461E/) | Creative writing, NLP | $10–$40/hr | — |
 
 → [Compare all platforms side-by-side](https://aitrainer.work/platforms)
 
@@ -122,9 +124,6 @@ Deep dives into the most popular platforms.
 ### Ethos
 - [Ethos Expert Network review](https://aitrainer.work/guides/ethos-expert-network-review)
 
-### Outlier
-- [Outlier empty queue fix](https://aitrainer.work/guides/outlier-empty-queue-fix) — what to do when no tasks appear
-
 ---
 
 ## By Domain / Specialty
@@ -159,14 +158,4 @@ Guides for specific professional backgrounds.
 
 ---
 
-## Contributing
-
-This is a curated list — quality over quantity. To contribute:
-
-1. Check it's not already listed
-2. The resource must be genuinely useful to someone getting into or advancing in AI training work
-3. Open a PR with a short description of why it belongs
-
----
-
-*Maintained by [aitrainer.work](https://aitrainer.work). For live job listings updated weekly, see [ai-training-jobs](https://github.com/search?q=ai-training-jobs&type=repositories).*
+*Maintained by [aitrainer.work](https://aitrainer.work). For live job listings updated weekly, see [ai-training-jobs](https://github.com/pietro93/ai-training-jobs#readme).*
