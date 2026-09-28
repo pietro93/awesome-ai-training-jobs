@@ -47,7 +47,7 @@ The main platforms hiring AI trainers. Each entry links to an in-depth review wi
 
 | Platform | Focus | Pay Range | Review |
 |----------|-------|-----------|--------|
-| <img src="https://aitrainer.work/img/platforms/mercor.webp" width="16" height="16"> [Mercor](https://work.mercor.com?referralCode=f5d2f70e-eab7-4058-baac-5537b12cafd2) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
+| <img src="https://aitrainer.work/img/platforms/mercor.webp" width="16" height="16"> [Mercor](https://work.mercor.com?referralCode=8aeb88e2-5c74-fddb-efa3-b957753b591f) | All domains, heavy tech | $20–$400/hr | [Review](https://aitrainer.work/platforms/mercor) |
 | <img src="https://aitrainer.work/img/platforms/micro1.webp" width="16" height="16"> [Micro1](https://www.micro1.ai/jobs?referralCode=127739a8-8818-4bab-99c6-532bb6ec3311) | Widest domain coverage | $15–$300/hr | [Review](https://aitrainer.work/platforms/micro1) |
 | <img src="https://aitrainer.work/img/platforms/turing.webp" width="16" height="16"> [Turing](https://work.turing.com/r/uGg_Anel1u) | Coding, STEM, languages | $20–$120/hr | [Review](https://aitrainer.work/guides/turing-ai-training-review) |
 | <img src="https://aitrainer.work/img/platforms/sme-careers.webp" width="16" height="16"> [SME Careers](https://sme.careers/apply?referral=rp--125d85) | Languages, STEM, design | $15–$80/hr | [Review](https://aitrainer.work/guides/sme-careers-review) |
