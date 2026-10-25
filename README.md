@@ -148,6 +148,7 @@ Guides for specific professional backgrounds.
 - [Platform comparison tool](https://aitrainer.work/platforms) — side-by-side pay rates, requirements, and reviews
 - [AI Trainer Academy](https://aitrainer.work/academy) — free RLHF fundamentals course with certificate
 - [AI training task examples & walkthrough](https://aitrainer.work/guides/ai-training-task-examples-and-walkthrough) — what tasks actually look like
+- [micro1 Pay Index](https://www.artificialjobs.dev/pay-index/2026-10) — monthly advertised micro1 pay by field, with a free CC BY 4.0 CSV
 
 ---
 
